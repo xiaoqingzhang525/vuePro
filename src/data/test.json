@@ -1,0 +1,280 @@
+{
+  "data": {
+    "downUseRatio": {
+      "Ten-GigabitEthernet2/2/0/3": [
+        {
+          "time": "2020-04-25 09:45",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 09:50",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 09:55",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:00",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:05",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:10",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:15",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:20",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:25",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:30",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:35",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:40",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:45",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:50",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 10:55",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:00",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:05",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:10",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:15",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:20",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:25",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:30",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:35",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:40",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:45",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:50",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 11:55",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:00",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:05",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:10",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:15",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:20",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:25",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:30",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:35",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:40",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:45",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:50",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 12:55",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:00",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:05",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:10",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:15",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:20",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:25",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:30",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:35",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:40",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:45",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:50",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 13:55",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:00",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:05",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:10",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:15",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:20",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:25",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:30",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:35",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:40",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:45",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:50",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 14:55",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 15:00",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 15:05",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 15:10",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 15:15",
+          "inUseRatio": 0
+        },
+        {
+          "time": "2020-04-25 15:20",
+          "inUseRatio": 0
+        }
+      ]
+    }
+  }
+}
